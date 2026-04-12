@@ -124,7 +124,13 @@ const appConfigs = {
     'Amar': { color: '#f1c40f', hint: 'ID تطبيق قمر', img: 'amar.jpeg' },
     'Honey Jar': { color: '#eb3b5a', hint: 'ID هونيغار', img: 'honijar.jpeg' },
     'Taka': { color: '#27ae60', hint: 'ID تطبيق تاكا', img: 'taka.jpeg' },
-    'Yoki': { color: '#c548b4', hint: 'ID تطبيق يوكي', img: 'yoki.png' }
+    'Yoki': { color: '#c548b4', hint: 'ID تطبيق يوكي', img: 'yoki.png' },
+    'YooY CHAT': { color: '#e49f45', hint: 'ID تطبيق يوي', img: 'YooY CHAT.jpg' },
+    'MEYOLiIVE': { color: 'rgb(206, 245, 98)', hint: 'ID تطبيق مياو', img: 'MEYOLiIVE.png' },
+    'SOYO CHAT': { color: '#34cee9', hint: 'ID تطبيق سويو', img: 'SOYO CHAT.png' },
+    'YOHO WAKA': { color: '#37dd31', hint: 'ID تطبيق ياهو', img: 'YOHO WAKA.png' },
+    'AHLAN CHAT': { color: '#b68d08', hint: 'ID تطبيق الان', img: 'AHLAN CHAT.png' },
+    'JUNKO': { color: '#e7ba27', hint: 'ID تطبيق جانكو', img: 'JUNKO.jpg' },
    
 };
 
